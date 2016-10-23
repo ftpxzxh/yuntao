@@ -1,3 +1,3 @@
 public class java{
-  main
+  public main
 }
